@@ -1,0 +1,2 @@
+This Python script uses OpenCV, MediaPipe, and PyAutoGUI to create a virtual mouse control system based on hand gestures detected by a webcam.
+The script captures video frames from the webcam, processes them to detect hand landmarks, and then maps specific finger movements to mouse actions such as moving the cursor and performing left and right clicks
